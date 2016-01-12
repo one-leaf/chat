@@ -15,6 +15,12 @@
    * Ubuntu 12.04
    * Python 2.7+
 
+### Install
+    ```bash
+    apt-get install git python-pip
+    apt-get install libxml2-dev python-dev libxslt-dev zlib1g-dev
+    ```
+
 ### Python Packages
 
    * BeautifulSoup==3.2.1
